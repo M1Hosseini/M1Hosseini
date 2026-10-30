@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Mohammad%20Hosseini&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%26%20Python%20Developer&descSize=18&descAlignY=60" alt="Mohammad Hosseini">
+  <img src="images/banner.svg" alt="Mohammad Hosseini, Data Scientist and Python Developer" width="100%">
 </p>
 
 <p align="center">
@@ -59,13 +59,6 @@ I turn raw data into decisions and working software. My background combines an M
 - Forecasting dispatch demand from real factory order data (internal project)
 - Learning Power BI and SQL analytics through hands-on projects
 - Publishing clean, documented versions of my projects
-
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=M1Hosseini&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1Hosseini&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages">
-</p>
 
 ---
 
